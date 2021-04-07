@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MDD4All.SpecIF.DataModels.RightsManagement", "MDD4All.SpecIF.DataModels.RightsManagement\MDD4All.SpecIF.DataModels.RightsManagement.csproj", "{12C6FDE8-0FE2-441D-BB15-B7D8E28960AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12C6FDE8-0FE2-441D-BB15-B7D8E28960AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C6FDE8-0FE2-441D-BB15-B7D8E28960AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C6FDE8-0FE2-441D-BB15-B7D8E28960AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C6FDE8-0FE2-441D-BB15-B7D8E28960AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C29FF91-F05F-4F80-99BB-FF8CF327AEC1}
+	EndGlobalSection
+EndGlobal
