@@ -4,6 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>MDD4All_Github.snk</AssemblyOriginatorKeyFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>Data model  extensions for SpecIF rights management and security.</Description>
+    <Copyright>(c) MDD4All.de</Copyright>
+    <Authors>Dr. Oliver Alt</Authors>
+    <Company>MDD4All.de</Company>
+    <PackageTags>SpecIF DataModels RightsManagement</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
