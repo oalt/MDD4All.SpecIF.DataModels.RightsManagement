@@ -5,11 +5,13 @@
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>MDD4All_Github.snk</AssemblyOriginatorKeyFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Description>Data model  extensions for SpecIF rights management and security.</Description>
+    <Description>Data model extensions for SpecIF rights management and security.</Description>
     <Copyright>(c) MDD4All.de</Copyright>
     <Authors>Dr. Oliver Alt</Authors>
     <Company>MDD4All.de</Company>
     <PackageTags>SpecIF DataModels RightsManagement</PackageTags>
+    <AssemblyName>MDD4All.SpecIF.DataModels.RightsManagement</AssemblyName>
+    <RootNamespace>MDD4All.SpecIF.DataModels.RightsManagement</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
