@@ -1,0 +1,1 @@
+﻿Data model classes for (non-standardized) SpecIF user management.
